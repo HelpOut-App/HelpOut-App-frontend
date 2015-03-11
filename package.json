@@ -1,0 +1,22 @@
+{
+  "name": "help-out-app-front",
+  "version": "1.0.0",
+  "description": "Front end for help out app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imccunn/help-out-app-front.git"
+  },
+  "author": "Ian McCunn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imccunn/help-out-app-front/issues"
+  },
+  "homepage": "https://github.com/imccunn/help-out-app-front",
+  "dependencies": {
+    "bootstrap": "^3.3.2"
+  }
+}
